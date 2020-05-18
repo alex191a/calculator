@@ -1,0 +1,13 @@
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\bin\Debug\netcoreapp3.1\whileLoopExitConsoleApp.exe
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\bin\Debug\netcoreapp3.1\whileLoopExitConsoleApp.deps.json
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\bin\Debug\netcoreapp3.1\whileLoopExitConsoleApp.runtimeconfig.json
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\bin\Debug\netcoreapp3.1\whileLoopExitConsoleApp.runtimeconfig.dev.json
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\bin\Debug\netcoreapp3.1\whileLoopExitConsoleApp.dll
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\bin\Debug\netcoreapp3.1\whileLoopExitConsoleApp.pdb
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.csprojAssemblyReference.cache
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.AssemblyInfo.cs
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.dll
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.pdb
+C:\Users\alol.skp\Desktop\skole\programmering\whileLoopExitConsoleApp\whileLoopExitConsoleApp\obj\Debug\netcoreapp3.1\whileLoopExitConsoleApp.genruntimeconfig.cache
